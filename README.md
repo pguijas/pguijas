@@ -4,7 +4,7 @@
 * 🖥️  See my portfolio at [TO-DO](http://todo.com).
 * 🚀  I'm currently working on [p2pfl](http://github.com/pguijas/p2pfl)
 * 🧠  I'm learning Deep Learning Generative Models.
-* ⚡  Despite my main professional focus is Machine Learning, I love software development, I also love software development.
+* ⚡  Despite my main professional focus is Machine Learning, I also love software development.
 * ✉️  You can contact me at [pguijas@gmail.com](mailto:pguijas@gmail.com).
 
 ## My Skill Set  
