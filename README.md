@@ -1,7 +1,6 @@
 ### <div align="center"><h1>Hi!👋 My name is Pedro Guijas.</h1></div>  
 
-* 📚 Graduated in Computer Engineering and currently coursing a Master in Artificial Intelligence at UDC (University of Coruña).
-* 🖥️  See my portfolio at [TO-DO](http://todo.com).
+* 📚  Graduated in Computer Engineering and Master's in Artificial Intelligence.
 * 🚀  I'm currently working on [p2pfl](http://github.com/pguijas/p2pfl)
 * 🧠  I'm learning Deep Learning Generative Models.
 * ⚡  Despite my main professional focus is Machine Learning, I also love software development.
